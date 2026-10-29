@@ -1,11 +1,11 @@
 window.SPREAD_CFG = {
   NAME: "SPREAD",
   TICKER: "SPREAD",
-  CA: "",            // $SPREAD mint, after launch
+  CA: "GnznigwdEkFBaM7MPvHNByvtm3xihtN3ztRM2VxxdrwV",            // $SPREAD mint, after launch
   CHAIN: "solana",
   PAD: "StonkFun",
   PAIR: "STONK",
-  X: "",             // https://x.com/<handle>
+  X: "https://x.com/spreadpairs",             // https://x.com/<handle>
   BUY: "",           // empty = Jupiter swap link from CA
   CHART: "",         // empty = gmgn from CA
   VAULT: "",         // engine vault address (printed on the engine's first run)
